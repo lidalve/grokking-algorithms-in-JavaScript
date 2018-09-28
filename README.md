@@ -1,2 +1,3 @@
 # grokking-algorithms-in-JavaScript
-《算法图解》--使用JavaScript实现
+"Grokking-Algorithms"--In-JavaScript
+《算法图解》--JavaScript实现
